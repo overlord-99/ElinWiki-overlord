@@ -1,0 +1,811 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.8">
+  <diagram name="Page-1" id="KgwOKG7UyeH7VQjri9oE">
+    <mxGraphModel dx="-177" dy="150" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-1" edge="1" parent="1" source="tInROLUU_ltFTFVZ-9Id-3" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=14;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;labelBorderColor=none;strokeColor=#4D9900;fontColor=#336600;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2157.7699389648433" y="1071.516735229492" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-2" connectable="0" parent="tInROLUU_ltFTFVZ-9Id-1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" value="融矿炉" vertex="1">
+          <mxGeometry relative="1" x="-0.0933" y="8" as="geometry">
+            <mxPoint x="24" y="6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;strokeColor=#4D9900;" value="闪亮矿石" vertex="1">
+          <mxGeometry height="40" width="120" x="2277.5599389648437" y="987.0067352294922" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-4" edge="1" parent="1" source="tInROLUU_ltFTFVZ-9Id-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=14;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBorderColor=none;strokeColor=#4D9900;" target="tInROLUU_ltFTFVZ-9Id-7" value="做螺栓分解">
+          <mxGeometry relative="1" y="10" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="2247.7699389648437" y="1091.516735229492" />
+              <mxPoint x="2247.7699389648437" y="1091.516735229492" />
+            </Array>
+            <mxPoint x="2207.7699389648433" y="1111.516735229492" as="sourcePoint" />
+            <mxPoint x="2267.7699389648437" y="1121.516735229492" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-5" edge="1" parent="1" source="tInROLUU_ltFTFVZ-9Id-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;shadow=0;strokeColor=#4D9900;endArrow=block;endFill=0;" target="tInROLUU_ltFTFVZ-9Id-41">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="2627.7699389648437" y="1081.516735229492" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-6" edge="1" parent="1" source="tInROLUU_ltFTFVZ-9Id-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;shadow=0;strokeColor=#4D9900;endArrow=block;endFill=0;" target="tInROLUU_ltFTFVZ-9Id-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2559.33" y="1102" />
+              <mxPoint x="2559.33" y="1182" />
+            </Array>
+            <mxPoint x="2567.7699389648437" y="1141.516735229492" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;strokeColor=#4D9900;" value="废铁" vertex="1">
+          <mxGeometry height="40" width="143.56" x="2319.49" y="1071.52" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-8" edge="1" parent="1" source="tInROLUU_ltFTFVZ-9Id-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;shadow=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="2107.7699389648437" y="1151.516735229492" as="sourcePoint" />
+            <mxPoint x="1972.7699389648435" y="1181.516735229492" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-9" connectable="0" parent="tInROLUU_ltFTFVZ-9Id-8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" value="切石机" vertex="1">
+          <mxGeometry relative="1" x="-0.0061" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-10" edge="1" parent="1" source="tInROLUU_ltFTFVZ-9Id-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.1;entryY=0.031;entryDx=0;entryDy=0;entryPerimeter=0;" target="tInROLUU_ltFTFVZ-9Id-205">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2157.7699389648437" y="1265.9209073384604" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-11" parent="1" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=14;align=center;strokeWidth=3;spacing=6;spacingTop=-4;labelBackgroundColor=none;fontStyle=1;labelBorderColor=none;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;岩石&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="2077.7699389648437" y="1161.516735229492" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-12" edge="1" parent="1" source="tInROLUU_ltFTFVZ-9Id-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;shadow=0;" target="tInROLUU_ltFTFVZ-9Id-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;" value="原木" vertex="1">
+          <mxGeometry height="40" width="120" x="2097.7699389648437" y="1341.516735229492" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-14" edge="1" parent="1" source="tInROLUU_ltFTFVZ-9Id-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;shadow=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1933.08028379243" y="1281.5167352294925" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=default;fillColor=default;labelBackgroundColor=none;labelBorderColor=none;" value="石料" vertex="1">
+          <mxGeometry height="70" width="70" x="1897.7699389648437" y="1171.516735229492" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-16" edge="1" parent="1" source="tInROLUU_ltFTFVZ-9Id-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.315;entryY=0.872;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;shadow=0;" target="tInROLUU_ltFTFVZ-9Id-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1967.7699389648437" y="1231.516735229492" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-17" connectable="0" parent="tInROLUU_ltFTFVZ-9Id-16" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" value="锤子分解" vertex="1">
+          <mxGeometry relative="1" x="0.0557" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-18" edge="1" parent="1" source="tInROLUU_ltFTFVZ-9Id-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;shadow=0;" target="tInROLUU_ltFTFVZ-9Id-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2307.7699389648437" y="1441.5167352294923" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-19" edge="1" parent="1" source="tInROLUU_ltFTFVZ-9Id-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="tInROLUU_ltFTFVZ-9Id-194">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2060.9966259765624" y="1438.015609741211" />
+              <mxPoint x="2060.9966259765624" y="1438.015609741211" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;shadow=0;" value="树枝" vertex="1">
+          <mxGeometry height="40" width="120" x="2097.7699389648437" y="1411.516735229492" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-21" edge="1" parent="1" source="tInROLUU_ltFTFVZ-9Id-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;shadow=0;" target="tInROLUU_ltFTFVZ-9Id-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-22" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;shadow=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2124.8299389648437" y="1152.516735229492" />
+              <mxPoint x="1837.8299389648437" y="1152.516735229492" />
+              <mxPoint x="1837.8299389648437" y="1281.516735229492" />
+              <mxPoint x="2124.8299389648437" y="1281.516735229492" />
+            </Array>
+            <mxPoint x="2124.759938964844" y="1111.516735229492" as="sourcePoint" />
+            <mxPoint x="2124.799938964844" y="1341.516735229492" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-23" edge="1" parent="1" source="tInROLUU_ltFTFVZ-9Id-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#66B2FF;labelBackgroundColor=none;labelBorderColor=none;shadow=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2057.8299389648437" y="1111.516735229492" />
+              <mxPoint x="2057.8299389648437" y="1111.516735229492" />
+            </Array>
+            <mxPoint x="1937.8299389648437" y="1111.516735229492" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;shadow=0;strokeWidth=1;" value="铸锭" vertex="1">
+          <mxGeometry height="40" width="120" x="2097.7699389648437" y="1071.516735229492" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-25" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;shadow=0;" value="做锄头分解" vertex="1">
+          <mxGeometry height="30" width="90" x="2153.8899389648436" y="1118.6767352294921" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-26" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=20;fontStyle=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;labelBackgroundColor=none;labelBorderColor=none;shadow=0;align=center;" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;&lt;font style=&quot;font-size: 33px;&quot;&gt;锤子炼金术一图流&lt;/font&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193)); font-weight: normal;&quot;&gt;&lt;br&gt;（基于锤子分解机制的材料转换&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193)); font-weight: normal;&quot;&gt;）&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-weight: normal; background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="133" width="625.33" x="1825.67" y="457.01" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-27" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;shadow=0;" value="做钉子分解，&lt;div&gt;（锭也可以做钉子）&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="150" x="2427.7699389648437" y="1104.006735229492" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-28" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;shadow=0;" value="锭/石料 做雕像再分解" vertex="1">
+          <mxGeometry height="30" width="160" x="1937.7699389648437" y="1279.516735229492" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-29" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;shadow=0;" value="分解" vertex="1">
+          <mxGeometry height="30" width="50" x="2152.7699389648437" y="1381.516735229492" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-30" edge="1" parent="1" source="tInROLUU_ltFTFVZ-9Id-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;labelBorderColor=none;shadow=0;strokeColor=#4D9900;endArrow=block;endFill=0;" target="tInROLUU_ltFTFVZ-9Id-66">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2617.33" y="1219" />
+              <mxPoint x="2547.33" y="1219" />
+              <mxPoint x="2547.33" y="1305" />
+            </Array>
+            <mxPoint x="2707.7699389648437" y="1271.516735229492" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-31" edge="1" parent="1" source="tInROLUU_ltFTFVZ-9Id-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;labelBorderColor=none;shadow=0;strokeColor=#4D9900;endArrow=block;endFill=0;" target="tInROLUU_ltFTFVZ-9Id-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2667.7699389648437" y="1166.516735229492" />
+              <mxPoint x="2667.7699389648437" y="1166.516735229492" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;shadow=0;strokeColor=#4D9900;" value="骨" vertex="1">
+          <mxGeometry height="40" width="70" x="2582.7699389648437" y="1161.516735229492" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;shadow=0;strokeColor=#4D9900;" value="鱼饵" vertex="1">
+          <mxGeometry height="30" width="55" x="2727.169938964844" y="1151.516735229492" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-34" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;shadow=0;" value="简易制造" vertex="1">
+          <mxGeometry height="30" width="80" x="2647.169938964844" y="1134.996735229492" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-35" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;labelBorderColor=none;shadow=0;strokeColor=#4D9900;endArrow=block;endFill=0;" target="tInROLUU_ltFTFVZ-9Id-63">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2741.396666666667" y="1224.036735229492" as="sourcePoint" />
+            <mxPoint x="2741.399938964844" y="1252.036735229492" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;shadow=0;strokeColor=#4D9900;" value="面包" vertex="1">
+          <mxGeometry height="40" width="50" x="2715.9999389648438" y="1201.516735229492" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-37" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;shadow=0;" value="石磨处磨粉" vertex="1">
+          <mxGeometry height="30" width="90" x="2542.7199389648435" y="1231.516735229492" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-38" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;shadow=0;" value="杂工桌做老提灯分解" vertex="1">
+          <mxGeometry height="30" width="150" x="2472.5199389648437" y="1054.996735229492" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-39" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;shadow=0;" value="做魔杖分解" vertex="1">
+          <mxGeometry height="29" width="88" x="2460.6599389648436" y="980.0067352294922" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-40" parent="1" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;shadow=0;strokeColor=#4D9900;" value="该材质的基本状态" vertex="1">
+          <mxGeometry height="60" width="120" x="2638.2699389648437" y="977.0067352294922" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-41" parent="1" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;shadow=0;strokeColor=#4D9900;" value="该材质的基本状态" vertex="1">
+          <mxGeometry height="60" width="120" x="2638.2699389648437" y="1051.516735229492" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-42" parent="1" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;shadow=0;" value="该材质的基本状态" vertex="1">
+          <mxGeometry height="60" width="120" x="2371.0599389648437" y="1171.516735229492" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-43" parent="1" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;shadow=0;" value="该材质的基本状态" vertex="1">
+          <mxGeometry height="60" width="120" x="2324.3299389648437" y="1401.516735229492" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-44" edge="1" parent="1" source="tInROLUU_ltFTFVZ-9Id-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;shadow=0;" target="tInROLUU_ltFTFVZ-9Id-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2067.7699389648437" y="1381.516735229492" />
+              <mxPoint x="2067.7699389648437" y="1381.516735229492" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-45" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;shadow=0;" value="厚板（木板）" vertex="1">
+          <mxGeometry height="40" width="120" x="1868.8299389648437" y="1341.516735229492" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-46" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;shadow=0;" value="分解" vertex="1">
+          <mxGeometry height="30" width="50" x="2012.589938964844" y="1378.016735229492" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-47" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;shadow=0;" target="tInROLUU_ltFTFVZ-9Id-45" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2093.8299389648437" y="1351.516735229492" />
+            </Array>
+            <mxPoint x="2093.8299389648437" y="1350.516735229492" as="sourcePoint" />
+            <mxPoint x="2017.7699389648437" y="1361.516735229492" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-48" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;shadow=0;" value="锯木机" vertex="1">
+          <mxGeometry height="30" width="70" x="2003.8299389648437" y="1321.516735229492" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-49" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=22;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;labelBackgroundColor=none;labelBorderColor=none;shadow=0;" value="&lt;b&gt;&lt;font&gt;万物炼石术&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="72" width="552" x="1888.6599389648436" y="1525.8567352294922" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-50" edge="1" parent="1" source="tInROLUU_ltFTFVZ-9Id-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;shadow=0;" target="tInROLUU_ltFTFVZ-9Id-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2161.1599389648436" y="1672.8567352294922" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-51" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;shadow=0;" value="任何材质的任何东西（资源）" vertex="1">
+          <mxGeometry height="47.86" width="120" x="2101.16" y="1605" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-52" edge="1" parent="1" source="tInROLUU_ltFTFVZ-9Id-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;shadow=0;" target="tInROLUU_ltFTFVZ-9Id-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2161.1599389648436" y="1792.8567352294922" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-53" edge="1" parent="1" source="tInROLUU_ltFTFVZ-9Id-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;labelBorderColor=none;shadow=0;" target="tInROLUU_ltFTFVZ-9Id-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-54" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;" value="染料" vertex="1">
+          <mxGeometry height="40" width="120" x="2101.1599389648436" y="1702.8567352294922" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-55" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;shadow=0;" value="染料釜" vertex="1">
+          <mxGeometry height="30" width="70" x="2151.1599389648436" y="1659.9967352294923" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-56" edge="1" parent="1" source="tInROLUU_ltFTFVZ-9Id-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;labelBorderColor=none;shadow=0;" target="tInROLUU_ltFTFVZ-9Id-59">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2161.1599389648436" y="1882.8567352294922" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-57" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;" value="地毯 / 鲁米艾斯特墙壁" vertex="1">
+          <mxGeometry height="60" width="120" x="2101.1599389648436" y="1772.8567352294922" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-58" edge="1" parent="1" source="tInROLUU_ltFTFVZ-9Id-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="tInROLUU_ltFTFVZ-9Id-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-59" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;" value="xx材质的 土" vertex="1">
+          <mxGeometry height="30" width="120" x="2101.1599389648436" y="1918.0167352294923" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-60" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;labelBorderColor=none;shadow=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;陨石炼金：野外铲掉草之后铺设，&lt;/font&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;放陨石术形成火堆，&lt;/font&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;一定概率烧成烧焦地板。&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;拓展--地板也可以用来炼&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;" vertex="1">
+          <mxGeometry height="79" width="252" x="2144.5999389648437" y="1839.0167352294923" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-61" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;" value="大自然斜坡" vertex="1">
+          <mxGeometry height="30" width="120" x="2442.7699389648437" y="1918.0167352294923" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-62" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;labelBackgroundColor=none;labelBorderColor=none;shadow=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" target="tInROLUU_ltFTFVZ-9Id-11" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="2613.33" y="1476" />
+            </Array>
+            <mxPoint x="2515.9966259765624" y="1912.015609741211" as="sourcePoint" />
+            <mxPoint x="2221.33" y="1221" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-63" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;shadow=0;strokeColor=#4D9900;" value="治愈神贡品" vertex="1">
+          <mxGeometry height="40" width="50" x="2715.9999389648438" y="1272.996735229492" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-64" edge="1" parent="1" source="tInROLUU_ltFTFVZ-9Id-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;labelBorderColor=none;shadow=0;strokeColor=#4D9900;endArrow=block;endFill=0;" target="tInROLUU_ltFTFVZ-9Id-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-65" edge="1" parent="1" source="tInROLUU_ltFTFVZ-9Id-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;labelBorderColor=none;shadow=0;strokeColor=#336600;endArrow=block;endFill=0;" target="tInROLUU_ltFTFVZ-9Id-67">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2617.7699389648437" y="1361.516735229492" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-66" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;shadow=0;strokeColor=#4D9900;" value="骨粉&lt;div&gt;（既是面粉又是药）&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="70" x="2582.7699389648437" y="1274.516735229492" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-67" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;shadow=0;strokeColor=#4D9900;" value="机械神贡品（药）" vertex="1">
+          <mxGeometry height="50" width="75.06" x="2592.7699389648437" y="1361.516735229492" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-68" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0;labelBackgroundColor=none;labelBorderColor=none;shadow=0;" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;span&gt;挖掘得到岩石&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="110" x="2528.2699389648437" y="1863.8567352294922" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-69" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;shadow=0;" value="做火把分解" vertex="1">
+          <mxGeometry height="29" width="88" x="2222.7699389648437" y="1404.996735229492" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-70" edge="1" parent="1" source="tInROLUU_ltFTFVZ-9Id-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;labelBorderColor=none;shadow=0;" target="tInROLUU_ltFTFVZ-9Id-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-71" parent="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=default;fillColor=default;labelBackgroundColor=none;labelBorderColor=none;" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;染料商人，&lt;/span&gt;&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;刷新大量购买染料&lt;/div&gt;" vertex="1">
+          <mxGeometry height="56" width="120" x="1929.2199389648435" y="1694.8567352294922" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-72" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;labelBorderColor=none;shadow=0;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;更新日期： 26.1.28&lt;/font&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Microsoft YaHei&amp;quot;; font-size: 18px; text-align: start; text-wrap-mode: wrap; background-color: rgb(245, 247, 250);&quot;&gt;&lt;br&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="34" width="147" x="2463.9999389648438" y="538.5167352294922" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-73" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;labelBackgroundColor=none;labelBorderColor=none;shadow=0;" value="机械遗迹类地牢拆得废铁" vertex="1">
+          <mxGeometry height="28" width="161" x="2310.7699389648437" y="1047.516735229492" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-74" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;labelBorderColor=none;shadow=0;" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;应用：&lt;br&gt;暗物质树枝，&lt;/font&gt;&lt;span style=&quot;font-size: 13px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;做鱼竿&lt;/span&gt;" vertex="1">
+          <mxGeometry height="43" width="135" x="2089.5999389648437" y="1469.0167352294923" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-75" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;" value="带属性空瓶用于做药水" vertex="1">
+          <mxGeometry height="40" width="120" x="2316.2199389648435" y="1702.8567352294922" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-76" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;labelBorderColor=none;shadow=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;锤子分解&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="2235.2199389648435" y="1694.8567352294922" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-77" edge="1" parent="1" source="tInROLUU_ltFTFVZ-9Id-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;strokeColor=#66B2FF;labelBackgroundColor=none;labelBorderColor=none;shadow=0;" target="tInROLUU_ltFTFVZ-9Id-80">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1837.8299389648437" y="1096.516735229492" />
+            </Array>
+            <mxPoint x="1837.8299389648437" y="1011.5167352294922" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-78" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#3399FF;labelBackgroundColor=none;labelBorderColor=none;shadow=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;管子&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="56" x="1881.7699389648437" y="1081.516735229492" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-79" edge="1" parent="1" source="tInROLUU_ltFTFVZ-9Id-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#66B2FF;labelBackgroundColor=none;labelBorderColor=none;shadow=0;entryX=0.163;entryY=0.012;entryDx=0;entryDy=0;entryPerimeter=0;" target="tInROLUU_ltFTFVZ-9Id-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2117.33" y="1002" />
+            </Array>
+            <mxPoint x="2117.33" y="1066" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-80" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#3399FF;labelBackgroundColor=none;labelBorderColor=none;shadow=0;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;鸟笼&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="56" x="1837.8299389648437" y="971.5167352294922" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-81" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;labelBorderColor=none;shadow=0;" value="找主线给的凯特尔，复制出大量管子后，&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;铁匠桌制作鸟笼&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="170.06" x="1839.6999389648438" y="1027.0067352294923" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-82" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;labelBorderColor=none;shadow=0;" value="分解大量鸟笼，刷锭" vertex="1">
+          <mxGeometry height="30" width="114.06" x="1928.9999389648438" y="975.0067352294922" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-83" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;labelBorderColor=none;shadow=0;" value="&lt;font&gt;2个铸锭，铁匠桌搓管子&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="100" x="1967.7699389648437" y="1081.516735229492" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-84" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=22;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;labelBackgroundColor=none;labelBorderColor=none;shadow=0;align=center;" value="&lt;b style=&quot;line-height: 150%;&quot;&gt;【特殊】：暗物质的万物炼石术&lt;br&gt;&lt;div&gt;&lt;font style=&quot;background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193)); font-weight: normal;&quot;&gt;&lt;span style=&quot;font-size: 20px; line-height: 150%;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; （&lt;/span&gt;&lt;/font&gt;&lt;font style=&quot;background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193)); font-weight: normal; font-size: 20px; line-height: 150%;&quot;&gt;暗物质干渴之壶、暗物质工具套装 ）&lt;/font&gt;&lt;/div&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="80" width="666.06" x="1876.6599389648436" y="1974.8567352294922" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-85" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=22;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;labelBackgroundColor=none;labelBorderColor=none;shadow=0;" value="&lt;b&gt;【特殊】：&lt;/b&gt;&lt;b&gt;永恒砂材质——蛋之鞭炼金术&lt;/b&gt;" vertex="1">
+          <mxGeometry height="72" width="428.09" x="1700.0099389648435" y="2723.996735229492" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-86" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;labelBackgroundColor=none;labelBorderColor=none;shadow=0;" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;前置需求：&lt;/b&gt;蛋之鞭、鲁米艾斯特墙壁配方、设计告示板、一个帐篷等&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="34" width="558" x="1667.4999389648438" y="2817.996735229492" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-87" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;labelBackgroundColor=none;labelBorderColor=none;shadow=0;" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;可用于永恒砂材质，以节约蛋之鞭次数&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="300" x="2426.4399389648433" y="2801.996735229492" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-88" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=22;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#CC0066;labelBackgroundColor=none;labelBorderColor=none;shadow=0;" value="&lt;b&gt;染料倍化术&lt;/b&gt;" vertex="1">
+          <mxGeometry height="72" width="386.06" x="2369.8099389648432" y="2723.996735229492" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-89" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=22;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;labelBackgroundColor=none;labelBorderColor=none;shadow=0;" value="&lt;b&gt;&lt;font&gt;基础炼金&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="52" width="411" x="1961.9966259765627" y="604.9989227294922" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-90" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;labelBorderColor=none;shadow=0;" value="&lt;font&gt;1个铸锭，做手里剑&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="109.17" x="1768.4766259765624" y="1114.008922729492" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-91" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#3399FF;labelBackgroundColor=none;labelBorderColor=none;shadow=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;手里剑&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="56" x="1676.9999389648438" y="1118.6767352294921" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-92" edge="1" parent="1" source="tInROLUU_ltFTFVZ-9Id-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#66B2FF;labelBackgroundColor=none;labelBorderColor=none;shadow=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1705.33" y="948" />
+              <mxPoint x="2115.33" y="948" />
+            </Array>
+            <mxPoint x="1711.8299389648437" y="1115.516735229492" as="sourcePoint" />
+            <mxPoint x="2115.33" y="1001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-93" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;labelBorderColor=none;shadow=0;" value="&lt;font&gt;分两组SL拆，&lt;/font&gt;&lt;div&gt;&lt;font&gt;得到两个铸锭。&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="100" x="1708.8299389648437" y="1034.516735229492" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-94" edge="1" parent="1" source="tInROLUU_ltFTFVZ-9Id-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#CC0066;" target="tInROLUU_ltFTFVZ-9Id-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-95" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;strokeColor=#CC0066;" value="蛋之鞭抽 (你要的材质)" vertex="1">
+          <mxGeometry height="40" width="177.06" x="2251.4999389648438" y="2882.246735229492" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-96" edge="1" parent="1" source="tInROLUU_ltFTFVZ-9Id-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#CC0066;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2683.5599389648437" y="2902.246735229492" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-97" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;strokeColor=#CC0066;" value="对应材质的蛋" vertex="1">
+          <mxGeometry height="40" width="120" x="2482.5599389648437" y="2882.246735229492" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-98" edge="1" parent="1" source="tInROLUU_ltFTFVZ-9Id-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#CC0066;" target="tInROLUU_ltFTFVZ-9Id-209">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-99" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;strokeColor=#CC0066;" value="煎蛋" vertex="1">
+          <mxGeometry height="40" width="112.48" x="2670.1866259765625" y="2882.245609741211" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-100" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;厨师机&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="2606.859938964844" y="2873.996735229492" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-101" edge="1" parent="1" source="tInROLUU_ltFTFVZ-9Id-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#CC0066;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2590.689938964844" y="3086.996735229492" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-102" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;strokeColor=#CC0066;" value="大量炼金灰&lt;br&gt;（对应材质）" vertex="1">
+          <mxGeometry height="50" width="111.48" x="2670.6866259765625" y="3061.995609741211" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-103" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;炼金术士复制&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="2618.8999389648443" y="2929.996735229492" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-104" edge="1" parent="1" source="tInROLUU_ltFTFVZ-9Id-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#CC0066;" target="tInROLUU_ltFTFVZ-9Id-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-105" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;strokeColor=#CC0066;" value="大量染料" vertex="1">
+          <mxGeometry height="59" width="120" x="2469.689938964844" y="3055.996735229492" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-106" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;shadow=0;" value="染料釜" vertex="1">
+          <mxGeometry height="30" width="70" x="2596.859938964844" y="3086.746735229492" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-107" edge="1" parent="1" source="tInROLUU_ltFTFVZ-9Id-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="tInROLUU_ltFTFVZ-9Id-111">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2052.6799389648436" y="2969.668511047363" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-108" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;shadow=0;" value="来到地图最北永恒庭院、找到黑星石碑" vertex="1">
+          <mxGeometry height="60" width="148" x="1977.6799389648436" y="2864.996735229492" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-109" edge="1" parent="1" source="tInROLUU_ltFTFVZ-9Id-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="tInROLUU_ltFTFVZ-9Id-114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-110" edge="1" parent="1" source="tInROLUU_ltFTFVZ-9Id-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.085;entryY=1.019;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;dashed=1;" target="tInROLUU_ltFTFVZ-9Id-97">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2353.7266259765624" y="3017.9989227294923" />
+              <mxPoint x="2353.7266259765624" y="2969.9989227294923" />
+              <mxPoint x="2492.7266259765624" y="2969.9989227294923" />
+            </Array>
+            <mxPoint x="2148.7266259765624" y="3028.9989227294923" as="sourcePoint" />
+            <mxPoint x="2574.4965242761373" y="2935.4218868255616" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-111" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;" value="永恒的石碑 的蛋&lt;br&gt;（永恒砂材质）" vertex="1">
+          <mxGeometry height="55" width="118.94" x="1992.7399389648435" y="2989.996735229492" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-112" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;shadow=0;" value="蛋之鞭抽它，&lt;br&gt;可以得到对应材质的蛋" vertex="1">
+          <mxGeometry height="46" width="158" x="1901.2599389648437" y="2929.996735229492" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-113" edge="1" parent="1" source="tInROLUU_ltFTFVZ-9Id-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="tInROLUU_ltFTFVZ-9Id-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-114" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;" value="永恒砂材质尸体" vertex="1">
+          <mxGeometry height="40" width="120" x="1991.6799389648436" y="3092.996735229492" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-115" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;shadow=0;" value="锤子拆蛋" vertex="1">
+          <mxGeometry height="29" width="74" x="2051.5599389648437" y="3056.996735229492" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-116" edge="1" parent="1" source="tInROLUU_ltFTFVZ-9Id-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="tInROLUU_ltFTFVZ-9Id-120">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-117" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;" value="雕像" vertex="1">
+          <mxGeometry height="40" width="120" x="1777.2199389648438" y="3163.646735229492" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-118" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;shadow=0;" value="雕刻台" vertex="1">
+          <mxGeometry height="29" width="60" x="1850.5599389648437" y="3115.246735229492" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-119" edge="1" parent="1" source="tInROLUU_ltFTFVZ-9Id-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="tInROLUU_ltFTFVZ-9Id-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-120" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;" value="原木" vertex="1">
+          <mxGeometry height="40" width="120" x="2028.9899389648438" y="3163.646735229492" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-121" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;shadow=0;" value="SL锤出原木" vertex="1">
+          <mxGeometry height="29" width="91" x="1913.0499389648437" y="3187.646735229492" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-122" edge="1" parent="1" source="tInROLUU_ltFTFVZ-9Id-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="tInROLUU_ltFTFVZ-9Id-127">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-123" edge="1" parent="1" source="tInROLUU_ltFTFVZ-9Id-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="tInROLUU_ltFTFVZ-9Id-163">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-124" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;shadow=0;" value="厚板（木板）*2" vertex="1">
+          <mxGeometry height="40" width="120" x="2028.9899389648438" y="3251.646735229492" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-125" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;shadow=0;" value="锯木机" vertex="1">
+          <mxGeometry height="29" width="60" x="2088.9799389648433" y="3213.646735229492" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-126" edge="1" parent="1" source="tInROLUU_ltFTFVZ-9Id-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="tInROLUU_ltFTFVZ-9Id-132">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-127" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;" value="染料" vertex="1">
+          <mxGeometry height="40" width="120" x="2028.9899389648438" y="3323.646735229492" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-128" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;shadow=0;" value="染料釜" vertex="1">
+          <mxGeometry height="30" width="70" x="2082.9899389648435" y="3293.646735229492" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-129" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;strokeColor=#CC0066;" value="可以&lt;br&gt;暗物质的万物炼石术等等，不再赘述" vertex="1">
+          <mxGeometry height="73" width="120" x="2469.189938964844" y="3149.246735229492" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-130" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;labelBorderColor=none;shadow=0;" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;应用：做灯&lt;br&gt;做某些材质的南瓜灯，&lt;br&gt;得到材质附魔&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="59" width="148" x="1684.8299389648437" y="1334.516735229492" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-131" edge="1" parent="1" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;labelBackgroundColor=none;labelBorderColor=none;shadow=0;" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <Array as="points" />
+            <mxPoint x="1865.8299389648437" y="1365.516735229492" as="sourcePoint" />
+            <mxPoint x="1824.8299389648437" y="1365.516735229492" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-132" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;" value="参考上面&lt;br&gt;暗物质的万物炼石术。" vertex="1">
+          <mxGeometry height="62.5" width="159.06" x="2226.669938964844" y="3312.396735229492" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-133" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;描述：&lt;/b&gt;&lt;br&gt;需求：鲁米艾斯特墙壁配方、设计告示板、一个帐篷、&lt;/font&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;①/②&lt;/font&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;二选一等&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="53" width="507" x="1898.0599389648437" y="2059.346735229492" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-134" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" value="&lt;div style=&quot;line-height: 150%;&quot;&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;line-height: 150%;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;补充：&lt;/font&gt;&lt;/b&gt;此方法可以炼任何材质土、任何材质岩石，最终石转其他。&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;line-height: 150%;&quot;&gt;&amp;nbsp; 若染料不足，看下面染料倍化术&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;line-height: 150%;&quot;&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;&amp;nbsp; 现在染料商人已经不再出售暗物质染料，未来&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;①也可能失效&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/blockquote&gt;" vertex="1">
+          <mxGeometry height="85" width="485" x="1960.9999389648435" y="2615.486735229492" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-135" edge="1" parent="1" source="tInROLUU_ltFTFVZ-9Id-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="tInROLUU_ltFTFVZ-9Id-139">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-136" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;" value="染料" vertex="1">
+          <mxGeometry height="40" width="120" x="1969.8199389648435" y="2335.996735229492" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-137" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" value="染料釜" vertex="1">
+          <mxGeometry height="30" width="70" x="1874.7699389648437" y="2325.996735229492" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-138" edge="1" parent="1" source="tInROLUU_ltFTFVZ-9Id-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="tInROLUU_ltFTFVZ-9Id-149">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-139" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;" value="制作鲁米艾斯特墙壁" vertex="1">
+          <mxGeometry height="60" width="120" x="2138.8899389648436" y="2325.996735229492" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-140" edge="1" parent="1" source="tInROLUU_ltFTFVZ-9Id-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="tInROLUU_ltFTFVZ-9Id-145">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2180.8899389648436" y="2667.486735229492" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-141" edge="1" parent="1" source="tInROLUU_ltFTFVZ-9Id-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="tInROLUU_ltFTFVZ-9Id-160">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-142" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;" value="暗物质的 土" vertex="1">
+          <mxGeometry height="30" width="120" x="1792.8899389648436" y="2545.486735229492" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-143" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;陨石法术形成烧焦墙壁，&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;（等火堆熄灭概率生成）&lt;br&gt;（多来点陨石术）&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="62" width="172" x="1933.3899389648436" y="2457.996735229492" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-144" edge="1" parent="1" source="tInROLUU_ltFTFVZ-9Id-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="tInROLUU_ltFTFVZ-9Id-158">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-145" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;" value="大自然斜坡" vertex="1">
+          <mxGeometry height="30" width="120" x="2227.509938964844" y="2545.486735229492" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-146" edge="1" parent="1" source="tInROLUU_ltFTFVZ-9Id-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="tInROLUU_ltFTFVZ-9Id-136">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-147" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" value="（资源）" vertex="1">
+          <mxGeometry height="40" width="76" x="1787.8899389648436" y="2335.996735229492" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-148" edge="1" parent="1" source="tInROLUU_ltFTFVZ-9Id-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="tInROLUU_ltFTFVZ-9Id-151">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-149" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;" value="进入帐篷，&lt;br&gt;准备好设计告示板，&lt;br&gt;安装鲁米艾斯特墙壁" vertex="1">
+          <mxGeometry height="68" width="163" x="2117.3899389648436" y="2416.996735229492" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-150" edge="1" parent="1" source="tInROLUU_ltFTFVZ-9Id-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="tInROLUU_ltFTFVZ-9Id-142">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-151" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;" value="烧焦墙壁" vertex="1">
+          <mxGeometry height="30" width="120" x="1792.8899389648436" y="2435.996735229492" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-152" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;设计告示板，&lt;br&gt;建筑模式挖掘&lt;br&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="46" width="102" x="2391.9999389648438" y="2516.996735229492" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-153" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;设计告示板，&lt;br&gt;建筑模式挖掘&lt;/span&gt;" vertex="1">
+          <mxGeometry height="46" width="102" x="1751.8899389648436" y="2484.996735229492" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-154" edge="1" parent="1" source="tInROLUU_ltFTFVZ-9Id-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="tInROLUU_ltFTFVZ-9Id-147">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1825.8266259765624" y="2289.348922729492" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-155" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" value="&lt;font style=&quot;text-wrap-mode: nowrap; font-size: 16px;&quot;&gt;起点：&lt;/font&gt;&lt;font style=&quot;text-wrap-mode: nowrap; font-size: 18px;&quot;&gt;①/②&lt;/font&gt;&lt;font style=&quot;text-wrap-mode: nowrap; font-size: 16px;&quot;&gt;二选一,&lt;br&gt;先看上面描述&lt;/font&gt;" vertex="1">
+          <mxGeometry height="67" width="160" x="2120.5966259765623" y="2235.348922729492" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-156" edge="1" parent="1" source="tInROLUU_ltFTFVZ-9Id-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="tInROLUU_ltFTFVZ-9Id-159">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-157" edge="1" parent="1" source="tInROLUU_ltFTFVZ-9Id-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="tInROLUU_ltFTFVZ-9Id-161">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-158" parent="1" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=14;align=center;strokeWidth=1;spacing=6;spacingTop=-4;labelBackgroundColor=none;fontStyle=0" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;暗物质的岩石&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="2552.2299389648438" y="2520.486735229492" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-159" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=22;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;转到-基础炼金-板块中心的，&lt;br&gt;岩石，然后石转其他&lt;/font&gt;" vertex="1">
+          <mxGeometry height="52" width="220" x="2522.2299389648438" y="2423.486735229492" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-160" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;" value="暗物质的 干渴之壶" vertex="1">
+          <mxGeometry height="30" width="120" x="1791.8899389648436" y="2607.486735229492" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-161" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;" value="暗物质的 斧子等工具" vertex="1">
+          <mxGeometry height="41" width="120" x="2572.2299389648438" y="2637.486735229492" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-162" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;杂工桌&lt;/span&gt;" vertex="1">
+          <mxGeometry height="29" width="60" x="2629.7699389648437" y="2600.486735229492" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-163" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;普通万物炼石术&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="159.06" x="1678.9899389648438" y="3251.646735229492" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-164" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;font style=&quot;font-size: 15px; line-height: 150%;&quot;&gt;&lt;font&gt;&lt;b&gt;注释：&lt;/b&gt;&lt;/font&gt;&lt;font&gt;永恒砂烧焦后挖掘需求只有330，&lt;br&gt;所以技能够可以直接用木板做地板，&lt;br&gt;然后普通万物炼石术-陨石炼金。&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="283" x="1716.9899389648438" y="3326.646735229492" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-165" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;shadow=0;" value="若挖掘够强，才可以此分支&lt;br&gt;具体看下面注释" vertex="1">
+          <mxGeometry height="46" width="186" x="1843.0499389648437" y="3271.646735229492" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-166" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;div style=&quot;line-height: 140%;&quot;&gt;&lt;span style=&quot;font-size: 14px; line-height: 140%;&quot;&gt;常见应用：&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 14px; text-align: center; line-height: 140%;&quot;&gt;经过上面[基础炼金]，&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: center; font-size: 14px; line-height: 140%;&quot;&gt;转化成暗物质树枝，&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 14px; text-align: center;&quot;&gt;来做暗物质的鱼竿&lt;br&gt;（高硬度鱼竿，降低精力消耗的效果好）&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="68" width="270" x="2489.1999389648436" y="2340.486735229492" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-167" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;span style=&quot;font-size: 15px; text-wrap-mode: nowrap;&quot;&gt;制作者：Q群昵称八月新番&lt;/span&gt;&lt;br style=&quot;font-size: 15px; text-wrap-mode: nowrap;&quot;&gt;&lt;span style=&quot;font-size: 15px; text-wrap-mode: nowrap;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 贴吧&lt;/span&gt;&lt;span style=&quot;font-size: 15px; text-wrap-mode: nowrap;&quot;&gt;昵称&lt;/span&gt;&lt;img src=&quot;https://tb1.bdstatic.com/tb/cms/nickemoji/3-13.png&quot; class=&quot;nicknameEmoji&quot; style=&quot;box-sizing: content-box; border: 0px; color: rgb(51, 51, 51); font-family: &amp;quot;Microsoft YaHei&amp;quot;; font-size: 18px; background-color: rgb(245, 247, 250); width: 17px; height: 17px;&quot;&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Microsoft YaHei&amp;quot;; font-size: 18px; background-color: rgb(245, 247, 250);&quot;&gt;一&lt;/span&gt;&lt;img src=&quot;https://tb1.bdstatic.com/tb/cms/nickemoji/3-7.png&quot; class=&quot;nicknameEmoji&quot; style=&quot;box-sizing: content-box; border: 0px; color: rgb(51, 51, 51); font-family: &amp;quot;Microsoft YaHei&amp;quot;; font-size: 18px; background-color: rgb(245, 247, 250); width: 17px; height: 17px;&quot;&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Microsoft YaHei&amp;quot;; font-size: 18px; background-color: rgb(245, 247, 250);&quot;&gt;一&lt;/span&gt;" vertex="1">
+          <mxGeometry height="52" width="206" x="2473.439938964844" y="568.9967352294922" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-168" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;labelBorderColor=none;shadow=0;" value="&lt;font style=&quot;line-height: 150%;&quot;&gt;&lt;font style=&quot;font-size: 20px; line-height: 150%;&quot;&gt;随意转载使用，欢迎接手。&lt;/font&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="42" width="258" x="2470.5599389648437" y="502.50673522949216" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-169" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;labelBorderColor=none;shadow=0;" value="&lt;div style=&quot;line-height: 130%;&quot;&gt;&lt;font style=&quot;font-size: 14px; line-height: 140%;&quot;&gt;&lt;br style=&quot;&quot;&gt;&lt;span&gt;感谢吧友、群友的帮助。&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="51" width="172" x="2473.439938964844" y="601.9967352294922" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-170" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;shadow=0;" value="优先倍化，生产大量永恒砂染料" vertex="1">
+          <mxGeometry height="29" width="214" x="2120.7266259765624" y="2985.9989227294923" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-171" parent="1" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=121;strokeColor=#FF0000;" value="" vertex="1">
+          <mxGeometry height="200" width="807" x="1762" y="671" as="geometry">
+            <mxRectangle height="103" width="50" x="281.4" y="-35" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-173" parent="tInROLUU_ltFTFVZ-9Id-171" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;shadow=0;spacingTop=-1;" value="&lt;div style=&quot;line-height: 180%;&quot;&gt;&lt;font style=&quot;font-size: 15px; line-height: 180%;&quot;&gt;锭和岩石可以做工具，本图推荐从岩石开始看，&lt;/font&gt;&lt;span style=&quot;font-size: 15px; line-height: 180%;&quot;&gt;(岩石为菱形框加粗)&lt;font&gt;&lt;br&gt;蓝色框、绿色框为锭相关的拓展。&lt;br&gt;岩石不能转锭，所以石与锭比较割裂，推荐&lt;/font&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;之后再看锭的蓝绿部分。&lt;/span&gt;&lt;br&gt;分解=用锤子拆，拆不出来就SL。&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="117" width="468" x="145.27000000000004" y="3" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-174" parent="tInROLUU_ltFTFVZ-9Id-171" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;shadow=0;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;樱木是原木、纸是纤维，花岗岩是岩石&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;暗物质正常时是碎片，这些便是材质基本状态。&lt;br&gt;基本状态大多是资源，而资源可以做染料。（&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;基本状态为&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;椭圆框）&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="62" width="417" x="302.68331298828116" y="137.9978125" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-175" parent="tInROLUU_ltFTFVZ-9Id-171" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;shadow=0;" value="该材质的基本状态" vertex="1">
+          <mxGeometry height="60" width="120" x="142.2733129882816" y="121.99781250000001" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-176" edge="1" parent="tInROLUU_ltFTFVZ-9Id-171" source="tInROLUU_ltFTFVZ-9Id-175" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.004;entryY=0.216;entryDx=0;entryDy=0;entryPerimeter=0;" target="tInROLUU_ltFTFVZ-9Id-174" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="373.27" y="210.5" as="sourcePoint" />
+            <mxPoint x="331.66999999999996" y="107.15668701171876" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-177" parent="tInROLUU_ltFTFVZ-9Id-171" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;shadow=0;" value="&lt;div style=&quot;line-height: 130%;&quot;&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="18" x="629.9900000000002" y="41" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-178" parent="tInROLUU_ltFTFVZ-9Id-171" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAACQAAAAqCAIAAABUaG6/AAAAYElEQVR4AezSMQoAIRAEwcP///kMzJsGZaPewGQGBgrXP3jrG7zGnmDHGCMK9EGQx4YxWinsxYg8NozRSmEvRuSxYYxWCnsxIo8NY7RS2IsReWx4yWhnTq+x43D5jjJuAAAA//9jL7qsAAAABklEQVQDAGgOa+kdsXE4AAAAAElFTkSuQmCC;" value="" vertex="1">
+          <mxGeometry height="42" width="36" x="4.27441055258123" y="2.9976757303874138" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-172" parent="tInROLUU_ltFTFVZ-9Id-171" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=19;fontColor=#FF0000;" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;必看指引：&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="112.73" x="12" y="76" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-179" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" value="&lt;div style=&quot;line-height: 160%;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 18px; line-height: 160%;&quot;&gt;①&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 16px; line-height: 160%;&quot;&gt;永恒庭院&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 16px; line-height: 160%;&quot;&gt;鱼影，有一条是暗物质的，徒手采集得到暗物质的骨（资源），可以开始炼金。&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 18px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); line-height: 160%;&quot;&gt;②&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 16px; line-height: 160%;&quot;&gt;垃圾扭蛋机/家具扭蛋机能刷出暗物质材质物品，&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 16px; line-height: 160%;&quot;&gt;锤子分解&lt;/font&gt;&lt;span style=&quot;font-size: 16px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); line-height: 160%;&quot;&gt;暗物质材质物品，得到资源，要是得到锭或者岩石就直接基础炼金术。&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 16px; line-height: 160%;&quot;&gt;在次不再一一列举，但你利用不了基础炼金术时，请使用下面的高级炼金&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="121" width="652" x="1896.6566259765625" y="2105.348922729492" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-180" edge="1" parent="1" source="tInROLUU_ltFTFVZ-9Id-181" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#4D9900;endArrow=block;endFill=0;" target="tInROLUU_ltFTFVZ-9Id-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-181" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;strokeColor=#4D9900;gradientColor=none;" value="宝石" vertex="1">
+          <mxGeometry height="40" width="120" x="2277.7666259765624" y="905.0089227294922" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-182" edge="1" parent="1" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=14;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;labelBorderColor=none;strokeColor=#4D9900;fontColor=#336600;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2157.9966259765624" y="927.0089227294922" />
+            </Array>
+            <mxPoint x="2276.9966259765624" y="927.0089227294922" as="sourcePoint" />
+            <mxPoint x="2158.33" y="1007" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-183" connectable="0" parent="tInROLUU_ltFTFVZ-9Id-182" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" value="融矿炉" vertex="1">
+          <mxGeometry relative="1" x="-0.0933" y="8" as="geometry">
+            <mxPoint x="31" y="12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-184" edge="1" parent="1" source="tInROLUU_ltFTFVZ-9Id-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#4D9900;curved=0;endArrow=block;endFill=0;" target="tInROLUU_ltFTFVZ-9Id-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-185" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;shadow=0;" value="锤子分解" vertex="1">
+          <mxGeometry height="29" width="74" x="2338.8266259765624" y="951.0089227294922" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-186" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;strokeColor=#4D9900;" value="矿石" vertex="1">
+          <mxGeometry height="40" width="120" x="2424.966625976562" y="905.005609741211" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-187" edge="1" parent="1" source="tInROLUU_ltFTFVZ-9Id-186" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=14;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;labelBorderColor=none;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#4D9900;fontColor=#336600;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2485.33" y="891" />
+              <mxPoint x="2158.33" y="891" />
+            </Array>
+            <mxPoint x="2317.1666259765625" y="896.6756097412109" as="sourcePoint" />
+            <mxPoint x="2158.33" y="927" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-188" connectable="0" parent="tInROLUU_ltFTFVZ-9Id-187" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" value="融矿炉" vertex="1">
+          <mxGeometry relative="1" x="-0.0933" y="8" as="geometry">
+            <mxPoint x="-108" y="6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-189" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;shadow=0;" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;大多属于资源，可以做染料，&lt;br&gt;然后进行万物炼石术，&lt;br&gt;基本状态为椭圆框(黑色/绿色)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="62" width="200" x="1877.7666259765624" y="1832.8556097412109" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-190" parent="1" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;shadow=0;" value="该材质的基本状态" vertex="1">
+          <mxGeometry height="60" width="120" x="1740.3266259765624" y="1819.995609741211" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-191" edge="1" parent="1" source="tInROLUU_ltFTFVZ-9Id-190" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.008;entryY=0.271;entryDx=0;entryDy=0;entryPerimeter=0;" target="tInROLUU_ltFTFVZ-9Id-189" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2017.8233129882808" y="1988.017797241211" as="sourcePoint" />
+            <mxPoint x="1884.33" y="1850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-192" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;shadow=0;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;注释1：&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="71" x="1676.9966259765624" y="1839.3556097412109" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-193" edge="1" parent="1" source="tInROLUU_ltFTFVZ-9Id-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#66B2FF;labelBackgroundColor=none;labelBorderColor=none;shadow=0;exitX=0.078;exitY=1.029;exitDx=0;exitDy=0;exitPerimeter=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2107.1666259765625" y="1135.6756097412108" />
+            </Array>
+            <mxPoint x="1953.3333129882812" y="1136.2544842529296" as="sourcePoint" />
+            <mxPoint x="1732.9966259765624" y="1136.0956097412109" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-194" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;shadow=0;" value="棒" vertex="1">
+          <mxGeometry height="40" width="120" x="1849.6566259765623" y="1418.015609741211" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-195" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;shadow=0;" value="锯木机" vertex="1">
+          <mxGeometry height="30" width="70" x="1992.5866259765623" y="1411.515609741211" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-196" edge="1" parent="1" source="tInROLUU_ltFTFVZ-9Id-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.506;entryY=0.078;entryDx=0;entryDy=0;entryPerimeter=0;" target="tInROLUU_ltFTFVZ-9Id-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-197" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;labelBorderColor=none;shadow=0;fontColor=#66B2FF;" value="&lt;font style=&quot;color: rgb(51, 153, 255); font-size: 15px;&quot;&gt;蓝色部分，刷锭术&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="143.4" x="1816.6" y="915.01" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-198" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;shadow=0;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;注释2：&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="71" x="1676.9966259765624" y="1898.995609741211" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-199" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;shadow=0;" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;万物炼石术有特殊的，请看下面板块。&lt;/span&gt;" vertex="1">
+          <mxGeometry height="29" width="256" x="1733.8166259765624" y="1898.995609741211" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-200" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 15px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;注释：&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 15px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;染料能买的优先买，&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;font style=&quot;font-size: 15px; line-height: 150%;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;text-wrap-mode: nowrap; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;倍化术主要用于永恒砂等染料。&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;&lt;/blockquote&gt;" vertex="1">
+          <mxGeometry height="52" width="272" x="2483.8666259765623" y="3236.995609741211" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-201" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;labelBorderColor=none;shadow=0;" value="&lt;font style=&quot;line-height: 150%;&quot;&gt;&lt;font style=&quot;line-height: 150%;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Elin攻略&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="34" width="106" x="2473.4366259765625" y="473.0078125" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-202" parent="1" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAhZJREFUWIXtlTFr21AUhb8X2iGNipq6hiwliylZQsULSEMHU3vw1qlDlg4hg/0LOuSfZCjd/QvqQS7pZkMfDtm8iG41Lk1FFTIE+jq0T8SRFb3USgvFBwSCe8U577x7dGGJfwxhXrTWhc1S+hpAqaEo6hWisAWAO1Zdv8nb7X0qlQpS+tpGhA1W8gp7wbY2J5bS11tbNeI4JgxDDg5ep27cioC9YFtvbkC7vY+Uvl5fv4/neURRBEAYhmltUQGZGTDk9569IooiHMehVqsxGo0yH3uex+Hhm7kz8cczcHyxyqMndSYF5HEc0+12rUiuQ+YKlBqKMDwCyCUHmEwmnJ5+t0rEdcg4IKWvg2AHz/NyyQeDj6nYRci56oANuUFZMUwdkNLXu7svcV03l9xxHJRSZfBmBQBMp9M0annkUspUcBkuzMRQSl83m3WSJJlpMncOEAQ7OI4DQBge5V6FbQxnZsAkwBAAjMfjtKbUUBgxQRDQbNYX/hnNXUbGCaXU3KiZOsCXD+84vljN9Ng6kLsNizaflL5+evech2s/+Hq2wtvBSbkCbGBEvnh8zqfPZETYiFlIwGUhzx+czXWiSEDuOr4JlBqK99/W2Nz4tcxu8m0pDhjkOXHrV3BVhJkJk46/KoBLMa1Wq/R6Pfr9fq6CdAaEEKU8BkmS4LourVartINZQWuN1ppGo6E7nY4u09kllvg/8RPN+wyhGRPnpgAAAABJRU5ErkJggg==;" value="" vertex="1">
+          <mxGeometry height="99" width="99" x="1892.6766259765625" y="476.9978125" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-203" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;shadow=0;" value="也可以将资源放地上，然后蛋之鞭抽它，&lt;br&gt;进行下面的染料倍化术" vertex="1">
+          <mxGeometry height="46" width="270" x="1733.32" y="1929" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-204" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;shadow=0;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;注释3：&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="71" x="1677" y="1929" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-205" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;labelBorderColor=none;shadow=0;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 13px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;应用：&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;例如杂工桌做的很多工具&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="43" width="161" x="2142.16" y="1274.52" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-206" edge="1" parent="1" source="tInROLUU_ltFTFVZ-9Id-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="tInROLUU_ltFTFVZ-9Id-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-207" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;labelBackgroundColor=none;labelBorderColor=none;shadow=0;" value="做石制武器分解" vertex="1">
+          <mxGeometry height="29" width="116" x="2246.33" y="1175" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-208" edge="1" parent="1" source="tInROLUU_ltFTFVZ-9Id-209" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#CC0066;" target="tInROLUU_ltFTFVZ-9Id-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-209" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;strokeColor=#CC0066;" value="大量复制品煎蛋" vertex="1">
+          <mxGeometry height="40" width="112.48" x="2669.69" y="2971" as="geometry" />
+        </mxCell>
+        <mxCell id="tInROLUU_ltFTFVZ-9Id-210" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;锤子拆复制品&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="2618.9" y="3021" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
