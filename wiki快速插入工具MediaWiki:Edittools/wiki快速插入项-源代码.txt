@@ -1,0 +1,78 @@
+<!-- =================================== -->
+<!-- 这里的文字将显示在编辑和上传表格下面。  -->
+<!-- =================================== -->
+<!-- 需求：wiki快速插入项CSS加入Common.css -->
+<!-- 加入Common.css提供按钮样式，但id mw-edittools-charinsert的样式与Common.css无关，推测是灰机wiki自带 -->
+<!-- 共有[插入折叠]、[PC其他常用]、[手机其他常用]、[制作模板时]四大板块，只有[PC其他常用]利用到了id带来的样式 -->
+<!-- HTML转义更安全，nowiki包裹，既防止意外解析，也确保整条作为一个按钮 -->
+<!-- 大外框 edittools-wrapper-->
+<div class="edittools-wrapper">
+<!-- [插入折叠] -->
+<div class="mw-charinsert-buttons" title="点击快速插入">
+<b>快捷插入工具</b><br>
+<charinsert><nowiki>{{简单折叠/内容|你要输入的内容|id=*}}</nowiki></charinsert>
+<charinsert><nowiki>{{简单折叠/按钮|&lt;div&gt;按钮显示的文字&lt;/div&gt;|id=*}}</nowiki></charinsert>
+</div>
+
+<!-- [PC其他常用] id 提供 PC 端布局样式，不适配手机。故手机版无此 id -->
+<!-- Bootstrap 3 (hidden-xs) + 4 (d-none d-sm-block) 双兼容 -->
+<div id="mw-edittools-charinsert" class="mw-charinsert-buttons hidden-xs d-none d-sm-block" title="点击快速插入">
+其他常用：<br>
+<charinsert><nowiki>__NOREC__</nowiki></charinsert>
+<charinsert><nowiki>{{黑幕|+}}</nowiki></charinsert>
+<charinsert><nowiki>[+]</nowiki></charinsert>
+<charinsert><nowiki>[[+]]</nowiki></charinsert>
+<charinsert><nowiki>[[+|]]</nowiki></charinsert>
+<charinsert><nowiki>{{+}}</nowiki></charinsert>
+<charinsert><nowiki>·</nowiki></charinsert>
+<charinsert><nowiki>「+」</nowiki></charinsert>
+<charinsert><nowiki>『+』</nowiki></charinsert>
+<charinsert><nowiki>{{EA|+}}</nowiki></charinsert>
+<charinsert><nowiki>{{需要翻译|+}}</nowiki></charinsert>
+<charinsert><nowiki>{{需要帮助|+}}</nowiki></charinsert>
+<charinsert><nowiki>{{正在施工|~~~}}</nowiki></charinsert>
+<charinsert><nowiki>[[分类:+]]</nowiki></charinsert>
+<charinsert><nowiki>#重定向[[+]]</nowiki></charinsert>
+<charinsert><nowiki>&lt;u&gt;+&lt;/u&gt;</nowiki></charinsert>
+<charinsert><nowiki>&lt;del&gt;+&lt;/del&gt;</nowiki></charinsert>
+<charinsert><nowiki>&lt;blockquote&gt;+&lt;/blockquote&gt;</nowiki></charinsert>
+<charinsert><nowiki>&lt;nowiki&gt;+&lt;/nowiki&gt;</nowiki></charinsert>
+<charinsert><nowiki>&lt;!--+--&gt;</nowiki></charinsert>
+<charinsert><nowiki>&lt;code&gt;+&lt;/code&gt;</nowiki></charinsert>
+<charinsert><nowiki>&lt;pre&gt;+&lt;/pre&gt;</nowiki></charinsert>
+</div>
+
+<!-- [手机其他常用] 无 id带来的样式，Bootstrap 3 (visible-xs-block) + 4 (d-block d-sm-none) 双兼容 -->
+<div class="mw-charinsert-buttons visible-xs-block d-block d-sm-none" title="点击快速插入">
+其他常用：<br>
+<charinsert><nowiki>__NOREC__</nowiki></charinsert>
+<charinsert><nowiki>{{黑幕|+}}</nowiki></charinsert>
+<charinsert><nowiki>[+]</nowiki></charinsert>
+<charinsert><nowiki>[[+]]</nowiki></charinsert>
+<charinsert><nowiki>[[+|]]</nowiki></charinsert>
+<charinsert><nowiki>{{+}}</nowiki></charinsert>
+<charinsert><nowiki>·</nowiki></charinsert>
+<charinsert><nowiki>「+」</nowiki></charinsert>
+<charinsert><nowiki>『+』</nowiki></charinsert>
+<charinsert><nowiki>{{EA|+}}</nowiki></charinsert>
+<charinsert><nowiki>{{需要翻译|+}}</nowiki></charinsert>
+<charinsert><nowiki>{{需要帮助|+}}</nowiki></charinsert>
+<charinsert><nowiki>{{正在施工|~~~}}</nowiki></charinsert>
+<charinsert><nowiki>[[分类:+]]</nowiki></charinsert>
+<charinsert><nowiki>#重定向[[+]]</nowiki></charinsert>
+<charinsert><nowiki>&lt;u&gt;+&lt;/u&gt;</nowiki></charinsert>
+<charinsert><nowiki>&lt;del&gt;+&lt;/del&gt;</nowiki></charinsert>
+<charinsert><nowiki>&lt;blockquote&gt;+&lt;/blockquote&gt;</nowiki></charinsert>
+<charinsert><nowiki>&lt;nowiki&gt;+&lt;/nowiki&gt;</nowiki></charinsert>
+<charinsert><nowiki>&lt;!--+--&gt;</nowiki></charinsert>
+<charinsert><nowiki>&lt;code&gt;+&lt;/code&gt;</nowiki></charinsert>
+<charinsert><nowiki>&lt;pre&gt;+&lt;/pre&gt;</nowiki></charinsert>
+</div>
+
+<!-- [制作模板时] -->
+<div class="mw-charinsert-buttons" title="点击快速插入">
+制作模板时：<br>
+<charinsert><nowiki>&lt;includeonly&gt;+&lt;/includeonly&gt;&lt;noinclude&gt;{{documentation}}&lt;/noinclude&gt;</nowiki></charinsert>
+</div>
+<!-- 大外框的 -->
+</div>
